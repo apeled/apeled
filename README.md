@@ -1,7 +1,7 @@
 ### Hello, I'm **Amit Peled** 👋
 
 # 💫 About Me:
-🔭 I’m currently working on Bachelor's of Science in Bioengineering with a Concentration in Data Science<br>👯 I’m looking to collaborate with a diverse group of data scientist<br>🤝 I’m looking for help with starting my career in data science<br>🌱 I have been admitted to a Master's of Science in Data Science at the University of Washington this Fall.<br>💬 Ask me about my senior capstone (Heart Monitoring App)<br>⚡ Fun fact: I extremely enjoy cooking and getting to connect with different cultures around the world through this skill
+🔭 I’m currently working on a Master's of Science in Data Science and have graduated last year with a Bachelor's of Science in Bioengineering with a Concentration in Data Science<br>👯 I’m looking to collaborate with a diverse group of data scientist<br>🤝 I’m looking for help with starting my career in data science<br>🌱 I have been admitted to a Master's of Science in Data Science at the University of Washington this Fall.<br>💬 Ask me about my senior capstone (Heart Monitoring App)<br>⚡ Fun fact: I extremely enjoy cooking and getting to connect with different cultures around the world through this skill
 
 
 ## 🌐 Socials:
